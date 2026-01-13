@@ -30,5 +30,5 @@ This project demonstrates core React concepts such as **state management, hooks,
 
 ## 📸 Screenshots
 
-<img src="assets/home.png" width="600" />
+<img src="home.png" width="600" />
 
