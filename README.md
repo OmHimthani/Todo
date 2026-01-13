@@ -32,5 +32,3 @@ This project demonstrates core React concepts such as **state management, hooks,
 
 <img src="assets/home.png" width="600" />
 
-```txt
-Home Screen | Add Task | Edit Task
