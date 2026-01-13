@@ -30,7 +30,7 @@ This project demonstrates core React concepts such as **state management, hooks,
 
 ## 📸 Screenshots
 
-> _(Add screenshots of your app here)_
+<img src="assets/home.png" width="600" />
 
 ```txt
 Home Screen | Add Task | Edit Task
